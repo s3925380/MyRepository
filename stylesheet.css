@@ -170,15 +170,6 @@ nav a:hover::before {
   text-align:center;
 }
 
-#photo2 {
-  width: 100px;
-  margin-right: 40px;
-  float: right;
-  position: relative;
-  bottom: 500px;
-
-}
-
 #quote4 {
   color: #E9B44C;
   margin: 50px 100px;
