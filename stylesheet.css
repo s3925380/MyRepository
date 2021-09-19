@@ -149,6 +149,8 @@ nav a:hover::before {
   margin-left: 50px;
   float: left;
   width: 50px:auto;
+  position: relative;
+  100ppx;
 }
 
 #screen4 {
