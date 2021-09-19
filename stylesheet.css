@@ -145,6 +145,7 @@ nav a:hover::before {
 }
 
 #photo1 {
+  width: 150px;
   margin-left: 50px;
   float: left;
   width: 50px:auto;
