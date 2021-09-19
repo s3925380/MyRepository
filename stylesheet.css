@@ -171,6 +171,7 @@ nav a:hover::before {
 }
 
 #photo2 {
+  width: 150px;
   margin-right: 60px;
   float: right;
   position: relative;
