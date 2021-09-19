@@ -1,7 +1,7 @@
 
 #wholepage {
   max-width: 1735px;
-  min-height: 700px;
+  min-height: 800px;
   margin-left: auto;
   margin-right: auto;
 }
@@ -175,7 +175,7 @@ nav a:hover::before {
   margin-right: 40px;
   float: right;
   position: relative;
-  bottom: 300px;
+  bottom: 500px;
 
 }
 
